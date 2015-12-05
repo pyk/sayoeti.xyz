@@ -1,0 +1,29 @@
+---
+title:  "Sayoeti"
+date:   2015-12-05 08:34:15
+description: Rangkuman singkat Sayoeti
+---
+
+**Media massa** merupakan salah satu komponen terpenting dalam upaya 
+pemberantasan korupsi. Dengan menerbitkan berita-berita aktual dari berbagai 
+isu yang berkaitan dengan praktek korupsi, menunjukkan bahwa media massa 
+berkontribusi besar dalam transparansi upaya pemberantasan korupsi.
+
+Pada Hackathon Merdeka 3.0 ini, [Tim Indonesian AI](/team) bertujuan untuk 
+mengoptimalkan peran media massa dalam hal transparansi upaya pemberantasan 
+korupsi. Akan tetapi memantau semua media massa di Indonesia secara manual 
+sangatlah tidak efektif, untuk itu Tim Indonesian AI membuat sebuah 
+*Artificial Intelligence* (Kecerdasan Buatan) yang di beri nama **“Sayoeti”**.
+
+Sayoeti bisa mengerti berita mana yang berisi tentang isu praktek korupsi dan 
+berita mana yang bukan. Dengan kemampuan tersebut **Sayoeti bisa memantau seluruh 
+media massa di Indonesia secara real time, tanpa intervensi manusia**.
+
+Dengan data yang dikumpulkan oleh Sayoeti, Tim Indonesian AI membuat sebuah 
+[Aplikasi](https://satyoeti.xyz/#apps) yang memudahkan masyarakat mengakses berita aktual masalah korupsi 
+dan sebuah [Platform API](https://developer.sayoeti.xyz) yang bisa digunakan 
+pengembang aplikasi di Indonesia.
+
+Dengan hal ini peluang terbukanya medium baru untuk distribusi berita aktual 
+isu-isu praktek korupsi akan terbuka lebar dan peran media massa dalam 
+pemberantasan korupsi akan semakin optimal.

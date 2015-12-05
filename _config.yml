@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Sayoeti - Artificial Intelligence
+description: Keserdasan Buatan Pemantau Berita Korupsi
+meta_description: "Sayoeti adalah keserdasan buatan pemantau berita Korupsi pertama di Indonesia"
 
 aboutPage: true
 
@@ -9,15 +9,15 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+domain_name: 'https://sayoeti.xyz'
+# google_analytics: 'UA-XXXXXXXX-X'
+# disqus: false
+# disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'https://sayoeti.xyz'
+author:         'Sayoeti - Artificial Intelligence'
+# authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
 

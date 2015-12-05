@@ -70,8 +70,8 @@ h2 {
 }
 
 .profile #wrapper {
-	padding: 100px 40px 0px;
-	max-width: 600px;
+	padding: 200px 40px 0px;
+	max-width: 760px;
 	margin: 0 auto;
 }
 
@@ -85,9 +85,7 @@ h2 {
 
 .profile #avatar {
 	display: inline-block;
-	width: 80px;
-	height: 80px;
-	border-radius: 50%;
+	width: 211.819px;
 	margin-bottom: 20px;
 }
 
@@ -100,11 +98,11 @@ h2 {
 
 .profile h2 {
 	font-size: 20px;
-	  font-weight: 300;
-	  color: #aaa;
-	  margin-top: 10px;
-	  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	  font-style: normal;
+	font-weight: 300;
+	color: #aaa;
+	margin-top: 10px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-style: normal;
 
 }
 
@@ -641,4 +639,55 @@ h2.month {
 	.post h2.headline { font-size: 13px; }
 	.post h1 { font-size:24px; }
 	.post h2 { font-size:20px; }
+}
+
+.cta-button {
+	margin-bottom: 32px;
+	margin-top: 32px;
+}
+
+.cta-button > a {
+	margin-right: 16px;
+	margin-left: 16px;
+}
+
+.sayoeti-media {
+	margin-top: 64px;
+	border-top: 1px solid #EEE;
+	padding-top: 32px;
+	text-align: center;
+}
+
+.sayoeti-media h2 {
+	color: #333;
+	display: block;
+	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+}
+
+.sayoeti-media p {
+	color: #aaa;
+}
+
+.sayoeti-media-logo img {
+	width: 170px;
+	padding: 5px;
+}
+
+.sayoeti-media-logo .bg-dark {
+	background: #000;
+}
+
+.app, .api {
+	padding: 100px 0px;
+}
+.app h2, .api h2 {
+	margin-top: 32px;
+}
+
+.app img {
+	width: 144px;
+}
+
+.api img {
+	width: 101.577px;
 }
