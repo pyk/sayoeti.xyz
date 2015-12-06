@@ -780,3 +780,121 @@ h2.month {
 .sayoeti-report-cta {
 	text-align: center;
 }
+
+/* Untuk report.sayoeti.xyz */
+.report-wrapper {
+	max-width: 760px;
+	margin: 0px auto;
+	padding-top: 64px;
+}
+
+.report-header {
+	border-bottom: 1px solid #EEE;
+	padding-bottom: 16px;
+	position: relative;
+}
+
+.report-sayoeti-logo, .report-sayoeti-title {
+	float: left;
+}
+
+.report-sayoeti-logo {
+	margin-right: 16px;
+}
+
+.report-sayoeti-title {
+	margin-left: 16px;
+	margin-top: 7.5px;
+}
+
+.report-sayoeti-title h1 {
+    letter-spacing: 0px;
+    color: #333;
+    font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+}
+
+.report-sayoeti-title p {
+	color: #AAA;
+	margin: 0px;
+}
+
+.report-sayoeti-logo img {
+	width: 72px;
+	cursor: pointer;
+}
+
+.report-stats {
+	margin-top: 32px;
+}
+
+.report-stats h2 {
+	color: #333;
+	display: block;
+	font: 18px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font-weight: bold;
+}
+
+.report-stats p {
+	color: rgb(170, 170, 170);
+	margin-bottom: 16px;
+}
+
+.report-stats-items {
+	margin-right: -16px;
+	margin-left: -16px;
+}
+
+.report-stats-items > .report-stats-item {
+	width: 190px;
+	float: left;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.report-stats-items.overview > .report-stats-item {
+	width: 380px;
+}
+
+.report-stats-items.overview > .report-stats-item h3 {
+	font-size: 48px;
+}
+
+.report-stats-items > .report-stats-item img {
+	height: 100%;
+	width: auto;
+}
+
+.report-stats-items > .report-stats-item h3 {
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 8px;
+	margin-top: 16px;
+}
+
+.report-stats-items > .report-stats-item h3 > a {
+	color: #333;
+}
+
+.report-stats-items > .report-stats-item p {
+	color: #AAA;
+}
+
+.report-stats-items > .report-stats-item > .report-stats-item-link {
+	margin-bottom: 0px;
+}
+
+.report-stats-analisa-overview {
+	float: left;
+}
+
+.report-stats-analisa-sentiment {
+    float: right;
+    padding-left: 32px;
+}
+
+.report-stats-analisa > .report-stats-items > .report-stats-item {
+	width: 100%;
+	float: none;
+	padding-left: 16px;
+	padding-right: 16px;
+}
