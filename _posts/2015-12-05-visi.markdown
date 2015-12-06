@@ -1,0 +1,51 @@
+---
+title:  "Tim Indonesian AI"
+date:   2015-12-05 08:34:15
+description: Visi tim Indonesian Artificial Intelligence
+---
+
+*Hello there! This is bayu from Indonesian AI, also known as [pyk](https://github.com/pyk) on the Internet. I know, it's sound crazy right? but we believe that we can teach machine to help us fight corruption!*
+
+Mungkin ini adalah deskripsi tim yang paling konyol yang pernah dibuat, hehe.
+*but, let's jump in!*.
+
+### Siapa kami?
+Untuk saat ini Tim Indonesian AI hanya terdiri dari 2 orang. Saya bernama Bayu Aldi Yansyah dan rekan saya Rio Ramadhan D.
+
+Saya dan Rio adalah mahasiswa semester 5 dari [Universitas Airlangga](https://cybercampus.unair.ac.id/). Rio fokus studinya Sistem Informasi dan saya sendiri fokus studi Matematika.
+
+Rio sangat expert di bidang *Mobile apps* dan *User Experience*.
+Saya sendiri lebih ke *Distributed System* dan *Machine Learning*. 
+
+### Kepercayaan yang sama
+Disini kami bisa menjadi satu tim karena kami mempunyai kepercayaan 
+yang sama, yaitu kami percaya bahwa kita bisa melatih suatu mesin untuk 
+membantu kita memberantas korupsi. Secara tidak langsung itu menjadi visi
+dan misi tim kami.
+
+Kebayang gak sih kalo dengan data yang ada seperti laporan keuangan instansi
+atau perusahaan dan lain-lain kita bisa melatih suatu mesin untuk 
+mengidentifikasi potensi seberapa besar terjadi korupsi di perusahaan
+atau instansi tersebut.
+
+Kemudian dengan data pribadi seorang pejabat publik yang wajib bisa diakses
+oleh publik seperti aset, transaksi dan lain-lain. Kita bisa melatih mesin 
+untuk mengidentifikasi potensi seberapa besar pejabat tersebut akan korupsi.
+
+Mungkin berikutnya data pribadi politikus, legislator atau .. ? hehe
+
+Itu hanya seklumit aja sih tentang pandangan kami terhadap Kecerdasan Buatan dan Korupsi.
+
+### Sayoeti
+Dan karena topik korupsi dan KPK itu sangat luas, kami memilih hal yang 
+spesifik, yaitu untuk membantu Humas KPK. Karena menurut kami peran media
+itu bisa memperbaik atau malah memperburuk citra upaya pemberantasan
+korupsi yang dilakukan oleh KPK dimata masyarakat.
+
+Nah terciptalah [Sayoeti](https://sayoeti.xyz).
+
+### Punya kepercayaan yang sama?
+*Wiihiiiii! if you have passion in Artificial Intelligence/Machine Learning/Natural Language Processing/Information Retrieval and believe that we can teach machine to help us fight corruption, please join us!*
+
+*Let's talk bay@sayoeti.xyz*
+

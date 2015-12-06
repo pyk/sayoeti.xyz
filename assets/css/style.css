@@ -691,3 +691,92 @@ h2.month {
 .api img {
 	width: 101.577px;
 }
+
+.sayoeti-do {
+	margin-top: 64px;
+}
+
+.sayoeti-do.double > .sayoeti-do-item {
+    width: 50%;
+    padding-left: 16px;
+    padding-right: 16px;
+    float: left;
+}
+
+.sayoeti-do-item {
+	max-width: 340px;
+	text-align: center;
+}
+
+.sayoeti-do.single > .sayoeti-do-item {
+    margin-left: 170px;
+}
+
+.sayoeti-do-item img {
+	width: 144px;
+}
+
+.sayoeti-do-item h2 {
+    color: #333;
+    display: block;
+    font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+}
+
+.sayoeti-do-item p {
+	color: #AAA;
+}
+
+.sayoeti-motto-wrapper {
+	margin: 0px auto 40px;
+	max-width: 780px;
+	padding: 0px 40px 40px;
+}
+
+.sayoeti-motto {
+	text-align: center;
+}
+
+.sayoeti-motto h2 {
+    font-size: 28px;
+    color: rgb(51, 51, 51);
+    font-weight: 300;
+	margin-top: 10px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-style: normal;
+}
+
+.sayoeti-motto p {
+    margin-top: 16px;
+    color: #AAA;
+}
+
+#post-body > ol > li {
+	list-style-type: number;
+	list-style-position: outside;
+}
+
+.sayoeti-report p.gray {
+	color: #AAA;
+	text-align: center;
+}
+
+.sayoeti-report h2 {
+	margin-top: 32px;
+	margin-bottom: 0px;
+	text-align: center;
+	color: #333;
+	display: block;
+	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+}
+
+.sayoeti-report-logo {
+	text-align: center;
+}
+
+.sayoeti-report-logo img {
+	width: 144px;
+}
+
+.sayoeti-report-cta {
+	text-align: center;
+}

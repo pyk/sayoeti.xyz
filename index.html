@@ -2,21 +2,44 @@
 profile: true
 ---
 
-{% include post-list.html %}
+<section id="wrapper" class="{% if page.profile %}home{% endif %}">
+    <article class="post">
+        
+        <section id="post-body" class="sayoeti-report">
+            <div class="sayoeti-report-logo">
+              <img src="/assets/images/sayoeti-report.png" alt="Gambar: Laporan sayoeti">
+            </div>
+            <h2>Sayoeti Report</h2>
+            <p class="gray">Laporan komprehensif Sayoeti untuk Humas KPK</p>
+            <p class="sayoeti-report-cta"><a href="#">Lihat Laporan Terbaru</a></p>
 
-<div id="apps" class="sayoeti-media app">
-  <img src="/assets/images/sayoeti-app-logo.png" alt="">
-  <h2>Dapatkan Berita Aktual Masalah Korupsi</h2>
-  <p>Aplikasi Android yang dikembangkan menggunakan Sayoeti API</p>
-  <p><a href="#">Download Aplikasi</a></p>
+            <p>Dari hasil pantauan dan analisa yang dilakukan, Sayoeti membuat laporan komprehensif yang bisa membantu Hubungan Masyarakat KPK untuk</p>
+            <p>
+            <ol>
+              <li>Melakukan analisa untuk rancangan kebijakan pengelolaan informasi</li>
+              <li>Melakukan analisa untuk kebijakan penyelenggaraan dan pengelolaan dokumentasi</li>
+              <li>Melakukan analisa untuk kebijakan penyelenggaraan publikasi</li>
+            </ol>
+            </p>
+            
+        </section>
+    </article>
+    <div class="sayoeti-result">
+      
+    </div>
 
-</div>
+    <div id="apps" class="sayoeti-media app">
+      <img src="/assets/images/sayoeti-app-logo.png" alt="">
+      <h2>Sayoeti App</h2>
+      <p>Berita Korupsi lengkap dengan analisis sentimen media untuk Masyarakat</p>
+      <p><a href="#">Download Aplikasi</a></p>
+    </div>
+ </section>
 
-<div id="apps" class="sayoeti-media api">
-  <img src="/assets/images/sayoeti-api-logo.png" alt="">
-  <h2>Kembangkan Aplikasi dengan Sayoeti API</h2>
-  <p>Kamu bisa dengan Mudah Mengintegrasikan Aplikasi Kamu Dengan Sayoeti API</p>
-  <p><a href="https://developer.sayoeti.xyz">Lihat Dokumentasi</a></p>
-
-</div>
-{% include footer.html %}
+<section class="sayoeti-motto-wrapper">
+  <div class="sayoeti-motto">
+    <h2>"Munkin ini kedengarannya gila, tapi kami percaya bahwa kita bisa melatih/mengajari suatu mesin untuk membantu kita memberantas korupsi. Sayoeti merupakan <i>Simple Proof</i> dari statement kami tersebut."</h2>
+    <p>Bayu Aldi Yansyah &amp; Rio Ramadhan D - Tim Indonesian Artificial Intelligence</p>
+    <a href="/2015/visi/">Baca Visi Kami Tentang AI dan Korupsi</a>
+  </div>
+</section>

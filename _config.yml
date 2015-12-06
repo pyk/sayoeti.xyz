@@ -1,6 +1,6 @@
-name: Sayoeti - Artificial Intelligence
-description: Keserdasan Buatan Pemantau Berita Korupsi
-meta_description: "Sayoeti adalah keserdasan buatan pemantau berita Korupsi pertama di Indonesia"
+name: Sayoeti - Kecerdasan Buatan Sebagai Asisten Hubungan Masyarakat KPK
+description: Kecerdasan Buatan Sebagai Asisten Humas KPK
+meta_description: "Sayoeti adalah keserdasan buatan yang menjadi Asisten Humas KPK"
 
 aboutPage: true
 
@@ -16,7 +16,7 @@ domain_name: 'https://sayoeti.xyz'
 
 # Details for the RSS feed generator
 url:            'https://sayoeti.xyz'
-author:         'Sayoeti - Artificial Intelligence'
+author:         'Tim Indonesian AI'
 # authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/

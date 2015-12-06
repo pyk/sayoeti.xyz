@@ -1,45 +1,12 @@
-{% for post in paginator.posts %}
-    <article class="post">
-        <section id="post-body">
-            {{ post.content }}
-        </section>
-    </article>
-{% endfor %}
 
-<div class="sayoeti-media">
-  <h2>Memantau Semua Media Massa Indonesia</h2>
-  <p>Dan akan terus bertambah</p>
-
-  <div class="sayoeti-media-logo">
-      <img src="/assets/images/media-antaranews.png" alt="antaranews">
-      <img src="/assets/images/media-detiknews.png" alt="detiknews">
-      <img src="/assets/images/media-liputan6.png" alt="liputan6">
-      <img src="/assets/images/media-beritasatu.png" alt="beritasatu">
-      <img src="/assets/images/media-bisnis.png" alt="bisnis">
-      <img src="/assets/images/media-harianterbit.png" alt="harianterbit">
-      <img src="/assets/images/media-kompas.png" alt="kompas">
-      <img class="bg-dark" src="/assets/images/media-kontan.png" alt="kontan">
-      <img src="/assets/images/media-merdeka.png" alt="merdeka">
-      <img src="/assets/images/media-pikiranrakyat.png" alt="pikiranrakyat">
-      <img src="/assets/images/media-pojoksatu.png" alt="pojoksatu">
-      <img src="/assets/images/media-replubika.png" alt="replubika">
-      <img class="bg-dark" src="/assets/images/media-rimanews.png" alt="rimanews">
-      <img src="/assets/images/media-rmol.jpg" alt="rmol">
-      <img src="/assets/images/media-serambiindonesia.png" alt="serambiindonesia">
-      <img src="/assets/images/media-tempo.png" alt="tempo">
-      <img src="/assets/images/media-tribuntimur.svg" alt="tribuntimur">
-      <img src="/assets/images/media-viva.jpg" alt="viva">
-      <img src="/assets/images/media-wartakota.png" alt="wartakota">
-  </div>
-</div>
-<!-- <ul id="post-list">
+<ul id="post-list">
     {% for post in paginator.posts %}
         <li>
             <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"><aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
             <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }} <h2>{{ post.description }}</h2></a>
         </li>
     {% endfor %}
-</ul> -->
+</ul>
 
 {% if paginator.previous_page or paginator.next_page %}
     {% include pagination.html %}
