@@ -29,7 +29,7 @@ mengidentifikasi potensi seberapa besar terjadi korupsi di perusahaan
 atau instansi tersebut.
 
 Kemudian dengan data pribadi seorang pejabat publik yang wajib bisa diakses
-oleh publik seperti aset, transaksi dan lain-lain. Kita bisa melatih mesin 
+oleh publik seperti aset, transaksi dan lain-lain, kita bisa melatih mesin 
 untuk mengidentifikasi potensi seberapa besar pejabat tersebut akan korupsi.
 
 Mungkin berikutnya data pribadi politikus, legislator atau .. ? hehe
@@ -47,5 +47,4 @@ Nah terciptalah [Sayoeti](https://sayoeti.xyz).
 ### Punya kepercayaan yang sama?
 *Wiihiiiii! if you have passion in Artificial Intelligence/Machine Learning/Natural Language Processing/Information Retrieval and believe that we can teach machine to help us fight corruption, please join us!*
 
-*Let's talk bay@sayoeti.xyz*
-
+*Let's talk! Send us email to bay@sayoeti.xyz & rio@sayoeti.xyz*
