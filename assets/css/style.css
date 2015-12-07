@@ -901,3 +901,22 @@ h2.month {
 	padding-left: 16px;
 	padding-right: 16px;
 }
+
+span.sentiment {
+    width: 16px;
+    height: 16px;
+    display: block;
+    float: left;
+    margin-right: 16px;
+}
+
+span.sentiment.color-2 {
+	background: #F04848;
+}
+
+span.sentiment.color-1 {
+	background: #43B581;
+}
+span.sentiment.color-0 {
+	background: #AFB9C4;
+}
