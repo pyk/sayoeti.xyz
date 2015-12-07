@@ -881,6 +881,9 @@ h2.month {
 
 .report-stats-items > .report-stats-item > .report-stats-item-link {
 	margin-bottom: 0px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 .report-stats-analisa-overview {
